@@ -629,7 +629,7 @@ A final project demonstration video will show the complete workflow:
 The final video should be uploaded to the repository under:
 
 ```text
-demo/final-demo.mp4
+![AI-SOC Demo](demo/final-demo.mp4)
 ```
 
 ---
