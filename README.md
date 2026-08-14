@@ -626,11 +626,9 @@ A final project demonstration video will show the complete workflow:
 8. Automatic Incident Processing
 ```
 
-The final video should be uploaded to the repository under:
 
-```text
 ![AI-SOC Demo](demo/final-demo.mp4)
-```
+
 
 ---
 
